@@ -28,7 +28,7 @@ In the body section, create a division with the text “Saveetha Engineering Col
 Close the HTML structure.
 
 ## CODE: 7 (i):
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -80,11 +80,11 @@ Close the HTML structure.
     </ul>
   </body>
   </html>
-
+```
 ## OUTPUT: 7(i):
-![Alt text](<media .1.png>)
-![Alt text](media.1.min.png)
-![Alt text](<media .1.png>)
+![media  1](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/9b76d40b-ad01-46b9-8cf0-166c576a9997)
+![media 1 min](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/f0ed4c16-424f-40a3-9384-ee333ae747d8)
+![media  1](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/9b76d40b-ad01-46b9-8cf0-166c576a9997)
 
 
 ## Ex-07(ii)-CSS
@@ -123,6 +123,7 @@ for the list of hyperlinks.
 End the HTML document by closing all open tags.
 
 ## CODE: 7(ii)
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -150,10 +151,11 @@ End the HTML document by closing all open tags.
         <li><a href="https://www.github.com">GitHub</a></li>
   </body>
   </html>
-
+```
 ## output:7(ii)
-![Alt text](media.2.png)
-![Alt text](media.2.min.png)
+![media 2](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/783da486-31bb-4165-a000-6717ca7cd688)
+![media 2 min](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/0b374f1c-3b2e-4aca-ab07-9cf680ce515b)
+
 
 
 ## Ex-07(iii)-CSS Orientation-based Media Query
@@ -193,7 +195,7 @@ Save your HTML file.
 Open your HTML file in a web browser and change the orientation of your device to see the different styles applied.
 
 ## CODE: 7(iii)
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -221,10 +223,11 @@ Open your HTML file in a web browser and change the orientation of your device t
         <li><a href="https://www.github.com">GitHub</a></li>
   </body>
   </html>
-
+```
 ## OUTPUT:7(iii):
-![Alt text](media.3.png)
-![Alt text](media.3.min.png)
+![media 3](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/f4a1b566-fcb2-4682-8689-1fa6a0c0d253)
+![media 3 min](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/c011a5ba-e9ef-4c03-99ca-6b18723c821d)
+
 
 
 ## Ex-07(iv)-CSS Responsive Typography
@@ -264,7 +267,7 @@ Test Your Styles.
 Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ## CODE: 7(iv)
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -306,10 +309,12 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
         <li><a href="https://www.github.com">GitHub</a></li>
   </body>
   </html>
-
+```
 ## OUTPUT:7(iv):
-![Alt text](media.4.min.png)
-![Alt text](media.4.png)
+![media 4](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/4ae387fa-efd0-4ef9-bc26-43c02103befa)
+![media 4 min](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/2c844927-c177-4616-954e-92a26b2f1f14)
+
+
 ## Ex-07(v):
 
 ## AIM:
@@ -347,7 +352,7 @@ Test your styles using the print preview feature in browsers to ensure they work
 Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ## CODE: 7(v)
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -389,10 +394,10 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
         <li><a href="https://www.github.com">GitHub</a></li>
   </body>
   </html>
-
+```
 ## OUTPUT:7(v):
-![Alt text](<media 5.png>)
-![Alt text](<media 5.min-1.png>)
+![media 5](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/54274d3b-8dad-475d-b549-e4ef80e55c03)
+![media 5 min](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/22da07d1-e643-440a-85e2-fdcca13790b3)
 
 
 ## Ex-07(vi)-Dark Mode Implementation
@@ -432,6 +437,7 @@ If the user has no preference, you can choose a default color scheme.
 Remember to test your website in both light and dark modes to ensure the colors work well in both settings.
 
 ## CODE: 7(vi):
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -464,7 +470,7 @@ Remember to test your website in both light and dark modes to ensure the colors 
         <li><a href="https://www.github.com">GitHub</a></li>
   </body>
   </html>
-
+```
 ## OUTPUT:7(vi):
-![Alt text](<media 6.png>)
-![Alt text](<media 6.mini.png>)
+![media 6](https://github.com/23002776/ODD2023-WT-Ex-07-CSS/assets/145742657/4ae38064-4dcc-4260-ac51-94fcd4e6c7e9)
+
